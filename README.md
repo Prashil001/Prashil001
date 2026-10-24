@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prashil001/Prashil001/main/assets/profile-header.svg" width="100%" alt="Prashil Suryawanshi — building toward AI engineering" />
+  <img src="https://raw.githubusercontent.com/Prashil001/Prashil001/262e18e229a7dde801ab24aea19e70af41142ad4/assets/profile-header.svg" width="100%" alt="Prashil Suryawanshi — building toward AI engineering" />
 </p>
 
 <p align="center">
@@ -66,8 +66,8 @@ I'm **Prashil**, a developer growing in **AI engineering**. I build across machi
   <img src="https://img.shields.io/badge/Docker-14263D?style=for-the-badge&amp;logo=docker&amp;logoColor=67E8F9" alt="Docker" />
 </p>
 
-**AI & data** &nbsp; LangChain · Ollama · Jupyter  
-**Backend** &nbsp; SQLAlchemy · REST APIs · Git  
+**AI & data** &nbsp; LangChain · LangGraph · RAG · MCP · LangSmith · Ollama · Jupyter  
+**Backend** &nbsp; FastAPI · SQLAlchemy · REST APIs · Git  
 **Interfaces** &nbsp; Streamlit · Flutter · Dart
 
 <br>
