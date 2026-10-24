@@ -30,7 +30,7 @@ I'm **Prashil**, a developer growing in **AI engineering**. I build across machi
 </td>
 <td width="32%" valign="top">
 <p><sub>01 / APPLIED MACHINE LEARNING</sub></p>
-<p><code>Machine Learning</code><br><code>Jupyter Notebook</code><br><code>Data Exploration</code></p>
+<p><code>Machine Learning</code><br><code>Jupyter Notebook</code><br><code>Data Exploration</code><br><code>Natural Language Processing</code></p>
 </td>
 </tr>
 <tr>
