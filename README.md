@@ -40,6 +40,12 @@ Building a Python backend for workflow planning and management, with a structure
 
 `Python` · `APIs` · `Workflow Planning` · `Backend Engineering`
 
+### 🗃️ [Text2SQL Clarifier](https://github.com/Prashil001/text2sql-clarifier)
+
+Turning plain-English questions into SQL with live schema context, clarification for ambiguous requests, and query validation.
+
+`Python` · `FastAPI` · `LangChain` · `Ollama` · `PostgreSQL` · `Docker`
+
 ## 🔧 Tools I build with
 
 | Area | Technologies |
