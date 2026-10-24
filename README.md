@@ -6,10 +6,10 @@
 
 I explore how language models, data, and well-designed software can work together to solve real problems.
 
-[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)](#tools-i-build-with)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=3FB950)](#tools-i-build-with)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)](#tools-i-build-with)
-[![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF)](#tools-i-build-with)
+[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)](#-tools-i-build-with)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=3FB950)](#-tools-i-build-with)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)](#-tools-i-build-with)
+[![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF)](#-tools-i-build-with)
 
 [Explore my projects](https://github.com/Prashil001?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/prashil-suryawanshi-a71a5827b/)
 
