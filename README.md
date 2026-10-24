@@ -26,27 +26,19 @@ I'm a developer focused on growing in **AI engineering**. My projects span machi
 - **Strengthening:** backend engineering, database design, and deployment skills.
 - **Learning by shipping:** turning ideas into projects, then improving how they work.
 
-## ⚡ Featured project · Text2SQL Clarifier
+## ⚡ Featured projects
 
-**Ask a database a question in plain English—with a clarification step when the request is ambiguous.**
+### 🧬 [Cancer Overview ML](https://github.com/Prashil001/Cancer-overview-ml)
 
-[Text2SQL Clarifier](https://github.com/Prashil001/text2sql-clarifier) brings together live database schema context, local language models, and SQL validation in an end-to-end application.
+Exploring cancer-related data through machine learning and notebook-based analysis.
 
-- Generates SQL with **Ollama + Qwen 3**.
-- Clarifies ambiguous questions before generating a query.
-- Uses **sqlglot** to validate generated SQL and apply row limits.
-- Connects a **FastAPI** backend, **PostgreSQL** database, and **Streamlit** interface with Docker Compose.
+`Machine Learning` · `Jupyter Notebook` · `Data Exploration`
 
-`Python` · `FastAPI` · `LangChain` · `Ollama` · `PostgreSQL` · `Docker`
+### 🤖 [WorkFlow AI](https://github.com/Prashil001/WorkFLow-AI)
 
-## 🛠️ More things I've built
+Building a Python backend for workflow planning and management, with a structured workflow engine and API layer.
 
-| Project | Focus |
-| :--- | :--- |
-| [California House Price Prediction](https://github.com/Prashil001/california-house-price-prediction) | Machine learning for housing price prediction |
-| [Cancer Overview ML](https://github.com/Prashil001/Cancer-overview-ml) | Exploring cancer-related data with machine learning |
-| [Expense Tracker](https://github.com/Prashil001/expense_tracker_flutter_app) | Building a practical Flutter application |
-| [RocketBoost3D](https://github.com/Prashil001/RocketBoost3D) | Exploring interactive software through game development |
+`Python` · `APIs` · `Workflow Planning` · `Backend Engineering`
 
 ## 🔧 Tools I build with
 
