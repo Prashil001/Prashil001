@@ -25,7 +25,7 @@ I'm **Prashil**, a developer growing in **AI engineering**. I build across machi
 <table>
 <tr>
 <td width="68%" valign="top">
-<h3><a href="https://github.com/Prashil001/Cancer-overview-ml">Cancer Overview ML ↗</a></h3>
+<h3><a href="https://github.com/Prashil001/Cancer-overview-ml">Cancer Overview ML →</a></h3>
 <p>Exploring cancer-related data through machine learning and notebook-based analysis.</p>
 </td>
 <td width="32%" valign="top">
@@ -35,7 +35,7 @@ I'm **Prashil**, a developer growing in **AI engineering**. I build across machi
 </tr>
 <tr>
 <td valign="top">
-<h3><a href="https://github.com/Prashil001/WorkFLow-AI">WorkFlow AI ↗</a></h3>
+<h3><a href="https://github.com/Prashil001/WorkFLow-AI">WorkFlow AI →</a></h3>
 <p>A Python backend for workflow planning and management, connecting a structured workflow engine with an API layer.</p>
 </td>
 <td valign="top">
@@ -45,7 +45,7 @@ I'm **Prashil**, a developer growing in **AI engineering**. I build across machi
 </tr>
 <tr>
 <td valign="top">
-<h3><a href="https://github.com/Prashil001/text2sql-clarifier">Text2SQL Clarifier ↗</a></h3>
+<h3><a href="https://github.com/Prashil001/text2sql-clarifier">Text2SQL Clarifier →</a></h3>
 <p>Plain-English questions to SQL, with live schema context, clarification for ambiguous requests, and query validation.</p>
 </td>
 <td valign="top">
@@ -76,5 +76,5 @@ I'm **Prashil**, a developer growing in **AI engineering**. I build across machi
 
 <p align="center">
   <b>Build something useful. Understand how it works. Make it better.</b><br><br>
-  <a href="https://www.linkedin.com/in/prashil-suryawanshi-a71a5827b/">Let's connect on LinkedIn ↗</a>
+  <a href="https://www.linkedin.com/in/prashil-suryawanshi-a71a5827b/">Let's connect on LinkedIn →</a>
 </p>
