@@ -1,70 +1,80 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prashil001/Prashil001/main/assets/profile-header.svg" width="100%" alt="Prashil Suryawanshi — building toward AI engineering" />
+</p>
 
-# Hi, I'm Prashil 👋
+<p align="center">
+  <a href="https://github.com/Prashil001?tab=repositories"><b>Projects</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#toolkit"><b>Toolkit</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prashil-suryawanshi-a71a5827b/"><b>LinkedIn</b></a>
+</p>
 
-### Building toward AI engineering, one useful project at a time.
+<br>
 
-I explore how language models, data, and well-designed software can work together to solve real problems.
+### From curiosity to working systems.
 
-[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)](#-tools-i-build-with)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=3FB950)](#-tools-i-build-with)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)](#-tools-i-build-with)
-[![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF)](#-tools-i-build-with)
+I'm **Prashil**, a developer growing in **AI engineering**. I build across machine learning, LLM applications, and backend development—with an interest in making models useful through clear interfaces, structured data, and thoughtful validation.
 
-[Explore my projects](https://github.com/Prashil001?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/prashil-suryawanshi-a71a5827b/)
+**Currently exploring** &nbsp; Local LLMs · AI workflows · Retrieval & evaluation
 
-</div>
+<br>
+
+## Selected work
+
+<table>
+<tr>
+<td width="68%" valign="top">
+<h3><a href="https://github.com/Prashil001/Cancer-overview-ml">Cancer Overview ML ↗</a></h3>
+<p>Exploring cancer-related data through machine learning and notebook-based analysis.</p>
+</td>
+<td width="32%" valign="top">
+<p><sub>01 / APPLIED MACHINE LEARNING</sub></p>
+<p><code>Machine Learning</code><br><code>Jupyter Notebook</code><br><code>Data Exploration</code></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/Prashil001/WorkFLow-AI">WorkFlow AI ↗</a></h3>
+<p>A Python backend for workflow planning and management, connecting a structured workflow engine with an API layer.</p>
+</td>
+<td valign="top">
+<p><sub>02 / WORKFLOW SYSTEMS</sub></p>
+<p><code>Python</code><br><code>APIs</code><br><code>Workflow Planning</code></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/Prashil001/text2sql-clarifier">Text2SQL Clarifier ↗</a></h3>
+<p>Plain-English questions to SQL, with live schema context, clarification for ambiguous requests, and query validation.</p>
+</td>
+<td valign="top">
+<p><sub>03 / LLM APPLICATIONS</sub></p>
+<p><code>FastAPI</code> <code>Ollama</code><br><code>LangChain</code><br><code>PostgreSQL</code></p>
+</td>
+</tr>
+</table>
+
+<br>
+
+## Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-14263D?style=for-the-badge&amp;logo=python&amp;logoColor=67E8F9" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-14263D?style=for-the-badge&amp;logo=fastapi&amp;logoColor=67E8F9" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-14263D?style=for-the-badge&amp;logo=postgresql&amp;logoColor=67E8F9" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-14263D?style=for-the-badge&amp;logo=docker&amp;logoColor=67E8F9" alt="Docker" />
+</p>
+
+**AI & data** &nbsp; LangChain · Ollama · Jupyter  
+**Backend** &nbsp; SQLAlchemy · REST APIs · Git  
+**Interfaces** &nbsp; Streamlit · Flutter · Dart
+
+<br>
 
 ---
 
-## 🧠 What drives me
-
-I'm a developer focused on growing in **AI engineering**. My projects span machine learning, LLM applications, APIs, and Flutter apps. I enjoy connecting the model to the rest of the product: data, backend logic, and an interface people can use.
-
-- **Building:** practical applications around language models and structured data.
-- **Exploring:** local LLMs, AI workflows, and reliable model outputs.
-- **Strengthening:** backend engineering, database design, and deployment skills.
-- **Learning by shipping:** turning ideas into projects, then improving how they work.
-
-## ⚡ Featured projects
-
-### 🧬 [Cancer Overview ML](https://github.com/Prashil001/Cancer-overview-ml)
-
-Exploring cancer-related data through machine learning and notebook-based analysis.
-
-`Machine Learning` · `Jupyter Notebook` · `Data Exploration`
-
-### 🤖 [WorkFlow AI](https://github.com/Prashil001/WorkFLow-AI)
-
-Building a Python backend for workflow planning and management, with a structured workflow engine and API layer.
-
-`Python` · `APIs` · `Workflow Planning` · `Backend Engineering`
-
-### 🗃️ [Text2SQL Clarifier](https://github.com/Prashil001/text2sql-clarifier)
-
-Turning plain-English questions into SQL with live schema context, clarification for ambiguous requests, and query validation.
-
-`Python` · `FastAPI` · `LangChain` · `Ollama` · `PostgreSQL` · `Docker`
-
-## 🔧 Tools I build with
-
-| Area | Technologies |
-| :--- | :--- |
-| AI & data | Python, Jupyter, LangChain, Ollama |
-| Backend & databases | FastAPI, PostgreSQL, SQLAlchemy |
-| Interfaces | Streamlit, Flutter, Dart |
-| Development | Git, GitHub, Docker |
-
-## 🌱 Where I'm headed
-
-I'm interested in building AI applications that are useful beyond a demo—with clearer outputs, thoughtful validation, and a solid backend. My next steps are to deepen my understanding of retrieval, evaluation, and deployment while continuing to build.
-
----
-
-<div align="center">
-
-**Curiosity → experiments → useful software.**
-
-[Let's connect](https://www.linkedin.com/in/prashil-suryawanshi-a71a5827b/)
-
-</div>
+<p align="center">
+  <b>Build something useful. Understand how it works. Make it better.</b><br><br>
+  <a href="https://www.linkedin.com/in/prashil-suryawanshi-a71a5827b/">Let's connect on LinkedIn ↗</a>
+</p>
