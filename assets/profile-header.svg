@@ -9,7 +9,6 @@
 <rect x="52" y="59" width="42" height="4" rx="2" fill="url(#accent)"/>
 <text x="52" y="103" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">BUILDING TOWARD AI ENGINEERING</text>
 <text x="48" y="174" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="700" letter-spacing="-1.5">Prashil Suryawanshi</text>
-<text x="52" y="218" fill="#a9bacf" font-family="Segoe UI,Arial,sans-serif" font-size="20">Applied machine learning. Thoughtful systems. Useful software.</text>
 <text x="52" y="274" fill="#7086a1" font-family="Consolas,monospace" font-size="14" letter-spacing="1">LEARN / BUILD / REFINE</text>
 <g fill="none" stroke-width="1.5"><rect x="953" y="65" width="154" height="154" rx="25" stroke="#67e8f9" stroke-opacity=".3" transform="rotate(15 1030 142)"/><rect x="973" y="85" width="114" height="114" rx="18" stroke="#818cf8" stroke-opacity=".65" transform="rotate(15 1030 142)"/><path d="m1006 129-15 13 15 13m48-26 15 13-15 13m-18-35-12 44" stroke="#a5f3fc" stroke-linecap="round" stroke-linejoin="round"/></g>
 </svg>
