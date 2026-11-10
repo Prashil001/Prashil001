@@ -1,4 +1,5 @@
-<!-- Profile README — Prashil Suryawanshi -->
+# Prashil Suryawanshi — GitHub Profile
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prashil001/Prashil001/262e18e229a7dde801ab24aea19e70af41142ad4/assets/profile-header.svg" width="100%" alt="Prashil Suryawanshi — building toward AI engineering" />
 </p>
@@ -25,7 +26,7 @@ Hey, I'm **Prashil** — a developer exploring the intersection of **AI engineer
 
 I enjoy taking ideas beyond prompts and prototypes: designing APIs, connecting models to useful data, validating outputs, and building interfaces that make systems practical.
 
-- 🧠 Exploring **LLMs, RAG, agentic workflows, and local AI**
+- 🧠 Exploring **LLMs, RAG, agentic workflows, and Model Context Protocol (MCP)**
 - 🛠️ Building with **Python, FastAPI, LangGraph, and PostgreSQL**
 - 🔍 Interested in evaluation, reliability, and thoughtful AI product engineering
 - 🌱 Always learning by building and breaking things
@@ -40,22 +41,27 @@ I enjoy taking ideas beyond prompts and prototypes: designing APIs, connecting m
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3><a href="https://github.com/Prashil001/text2sql-clarifier">Text2SQL Clarifier ↗</a></h3>
-      <p>Ask questions in plain English and turn them into SQL. Uses database schema context, ambiguity detection, clarification prompts, and SQL validation to make text-to-SQL safer and more useful.</p>
-      <sub>LLM APPLICATIONS · DATABASE INTELLIGENCE</sub>
+      <h3><a href="https://github.com/Prashil001/devtoolkit-mcp">DevToolkit MCP ↗</a></h3>
+      <p>A lightweight, model-independent MCP server that gives AI assistants practical software development tools. Includes repository analysis, code explanation, error analysis, dependency checking, and test execution. Published on PyPI.</p>
+      <sub>MODEL CONTEXT PROTOCOL · AI DEVELOPER TOOLS · OPEN SOURCE</sub>
+      <br/><br/>
+      <a href="https://pypi.org/project/devtoolkit-mcp/"><img src="https://img.shields.io/pypi/v/devtoolkit-mcp?style=flat-square&color=0e7490" alt="PyPI version" /></a>
+      <a href="https://pypi.org/project/devtoolkit-mcp/"><img src="https://img.shields.io/pypi/pyversions/devtoolkit-mcp?style=flat-square" alt="Python versions" /></a>
+      <a href="https://github.com/Prashil001/devtoolkit-mcp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Prashil001/devtoolkit-mcp?style=flat-square" alt="MIT License" /></a>
     </td>
     <td width="38%" valign="middle">
-      <p><code>FastAPI</code> <code>Ollama</code><br><code>LangChain</code> <code>PostgreSQL</code><br><code>SQL Validation</code></p>
+      <p><code>Python</code> <code>FastMCP</code><br/><code>MCP</code> <code>Pytest</code><br/><code>uv</code> <code>GitHub Actions</code></p>
+      <p><a href="https://pypi.org/project/devtoolkit-mcp/">📦 Install from PyPI</a></p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3><a href="https://github.com/Prashil001/WorkFLow-AI">WorkFlow AI ↗</a></h3>
-      <p>A Python backend for workflow planning and management, connecting a structured workflow engine with an API layer.</p>
-      <sub>WORKFLOW SYSTEMS · BACKEND ENGINEERING</sub>
+      <h3><a href="https://github.com/Prashil001/text2sql-clarifier">Text2SQL Clarifier ↗</a></h3>
+      <p>Ask questions in plain English and turn them into SQL. Uses database schema context, ambiguity detection, clarification prompts, and SQL validation to make text-to-SQL safer and more useful.</p>
+      <sub>LLM APPLICATIONS · DATABASE INTELLIGENCE</sub>
     </td>
     <td valign="middle">
-      <p><code>Python</code> <code>APIs</code><br><code>Workflow Planning</code></p>
+      <p><code>FastAPI</code> <code>Ollama</code><br/><code>LangChain</code> <code>PostgreSQL</code><br/><code>SQL Validation</code></p>
     </td>
   </tr>
   <tr>
@@ -65,7 +71,7 @@ I enjoy taking ideas beyond prompts and prototypes: designing APIs, connecting m
       <sub>APPLIED MACHINE LEARNING · DATA EXPLORATION</sub>
     </td>
     <td valign="middle">
-      <p><code>Machine Learning</code><br><code>Jupyter</code> <code>NLP</code></p>
+      <p><code>Machine Learning</code><br/><code>Jupyter</code> <code>NLP</code></p>
     </td>
   </tr>
 </table>
@@ -79,6 +85,7 @@ I enjoy taking ideas beyond prompts and prototypes: designing APIs, connecting m
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,flutter,dart&theme=dark" alt="Python, FastAPI, PostgreSQL, Docker, Git, GitHub, Flutter and Dart" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-222222?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="LangGraph" />
@@ -95,7 +102,7 @@ I enjoy taking ideas beyond prompts and prototypes: designing APIs, connecting m
 | **AI & LLMs** | LangChain · LangGraph · RAG · MCP · Ollama · LangSmith |
 | **Backend & data** | Python · FastAPI · SQLAlchemy · PostgreSQL · REST APIs |
 | **App development** | Flutter · Dart · Streamlit |
-| **Engineering tools** | Git · GitHub · Docker · Jupyter |
+| **Engineering tools** | Git · GitHub · Docker · Pytest · uv · Jupyter |
 
 ## 📊 GitHub activity
 
